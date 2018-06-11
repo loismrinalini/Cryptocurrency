@@ -1,0 +1,6 @@
+Steps
+
+install Dependencies
+conda install numpy pandas nb_conda jupyter plotly quandl
+
+pip install https://github.com/s4w3d0ff/python-poloniex/archive/v0.4.7.zip
